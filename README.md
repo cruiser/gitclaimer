@@ -1,7 +1,5 @@
 # jew
 Github name checker
 
-
-Does exactly what it sounds like
-
+You will need a github API token << github settings << developer 
      
